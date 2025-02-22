@@ -1,0 +1,21 @@
+symptoms,age,gender,diagnosis,severity,department,chronic_conditions
+"ateş,öksürük,boğaz ağrısı,halsizlik",45,E,Üst Solunum Yolu Enfeksiyonu,orta,Dahiliye,hipertansiyon
+"baş ağrısı,mide bulantısı,kusma",28,K,Migren,düşük,Nöroloji,yok
+"göğüs ağrısı,nefes darlığı,çarpıntı",62,E,Kalp Krizi,yüksek,Kardiyoloji,"diyabet,kalp hastalığı"
+"karın ağrısı,ishal,kusma",35,K,Gastroenterit,orta,Gastroenteroloji,yok
+"eklem ağrısı,kas ağrısı,ateş",51,E,Grip,düşük,Dahiliye,astım
+"baş dönmesi,bulantı,kusma",42,K,Vertigo,orta,Nöroloji,yok
+"öksürük,balgam,nefes darlığı",55,E,Bronşit,orta,Göğüs Hastalıkları,"astım,hipertansiyon"
+"ishal,karın ağrısı,ateş",30,K,Bağırsak Enfeksiyonu,düşük,Gastroenteroloji,yok
+"baş ağrısı,ateş,halsizlik",25,E,Grip,düşük,Dahiliye,yok
+"göğüs ağrısı,terleme,nefes darlığı",68,K,Kalp Krizi,yüksek,Kardiyoloji,"diyabet,hipertansiyon"
+"ateş,öksürük,halsizlik",33,E,Covid-19,orta,Göğüs Hastalıkları,yok
+"baş ağrısı,görme bozukluğu",47,K,Migren,düşük,Nöroloji,migren
+"karın ağrısı,şişkinlik,iştahsızlık",39,E,Gastrit,orta,Gastroenteroloji,gastrit
+"eklem ağrısı,şişlik,kızarıklık",52,K,Romatizma,orta,Romatoloji,romatizma
+"nefes darlığı,öksürük,balgam",61,E,KOAH,yüksek,Göğüs Hastalıkları,KOAH
+"baş dönmesi,denge kaybı,bulantı",29,K,Vertigo,düşük,Nöroloji,yok
+"ishal,kusma,karın ağrısı",44,E,Gastroenterit,orta,Gastroenteroloji,yok
+"ateş,titreme,kas ağrısı",37,K,Grip,düşük,Dahiliye,alerji
+"göğüs ağrısı,çarpıntı,terleme",58,E,Kalp Krizi,yüksek,Kardiyoloji,kalp hastalığı
+"boğaz ağrısı,öksürük,ateş",31,K,Farenjit,düşük,Dahiliye,yok

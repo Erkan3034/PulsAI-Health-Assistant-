@@ -1,0 +1,17 @@
+[
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "nefes darlığı",
+            "boğaz ağrısı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 20.5,
+        "severity": "düşük",
+        "severity_prob": 43.333333333333336,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-01-24T23:59:54.689212"
+    }
+]

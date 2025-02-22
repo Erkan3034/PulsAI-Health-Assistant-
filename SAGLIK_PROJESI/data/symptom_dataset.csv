@@ -1,0 +1,11 @@
+Symptom_1,Symptom_2,Symptom_3,Disease,Severity,Department,Recommendation,Age_Risk,Gender_Risk,Additional_Info
+ateş,öksürük,halsizlik,grip,düşük,Aile Hekimi,Evde dinlenin ve bol sıvı tüketin,65 yaş üstü grip komplikasyonları riski,Eşit risk,Kronik hastalık varsa dikkat
+baş ağrısı,bulantı,ışığa hassasiyet,migren,orta,Nöroloji,Karanlık bir odada dinlenin ve tetikleyicilerden kaçının,35 yaş altı migren başlangıcı yaygın,Kadınlarda daha yaygın,Hormonal değişimlerden etkilenir
+göğüs ağrısı,terleme,sırt ağrısı,kas ağrısı,düşük,Fizik Tedavi,Sıcak uygulama yapın ve istirahat edin,50 yaş üstü eklem problemleri riski,Eşit risk,Önceki yaralanmalar önemli
+karın ağrısı,kusma,ishal,mide virüsü,orta,Dahiliye,Diyet yapın ve bol su için,Tüm yaş grupları,Eşit risk,Gıda alerjileri önemli
+nefes darlığı,çarpıntı,soğuk terleme,astım,yüksek,Göğüs Hastalıkları,İnhaler kullanın ve tetikleyicilerden uzak durun,Çocuklarda astım riski yüksek,Çocukluk çağında erkeklerde daha yaygın,Alerji öyküsü önemli
+eklem ağrısı,ateş,titreme,covid-19,yüksek,Enfeksiyon,İzole olun ve doktora başvurun,Kronik hastalığı olanlarda risk yüksek,Eşit risk,Bağışıklık sistemi önemli
+ishal,karın ağrısı,gaz,gastrit,orta,Gastroenteroloji,Asitli yiyeceklerden kaçının,Tüm yaş grupları,Eşit risk,Beslenme alışkanlıkları önemli
+yüksek ateş,bilinç bulanıklığı,ateş,menenjit,acil,Acil,HEMEN 112yi ARAYIN,Çocuklarda risk yüksek,Eşit risk,Aşı geçmişi önemli
+şiddetli baş ağrısı,kusma,baş dönmesi,vertigo,orta,Nöroloji,Ani hareketlerden kaçının,60 yaş üstü risk yüksek,Kadınlarda daha yaygın,İç kulak problemleri önemli
+ani göğüs ağrısı,sol kola yayılan ağrı,terleme,kalp krizi,acil,Acil,HEMEN 112yi ARAYIN,45 yaş üstü risk yüksek,Erkeklerde daha yaygın,Kalp hastalığı öyküsü önemli

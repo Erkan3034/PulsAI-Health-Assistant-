@@ -1,0 +1,17 @@
+[
+    {
+        "symptoms": [
+            "göğüs ağrısı",
+            "ateş",
+            "kızarıklık"
+        ],
+        "additional_symptoms": "baş ağrısı",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 23.5,
+        "severity": "düşük",
+        "severity_prob": 52.0,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-01-08T17:26:25.019295"
+    }
+]

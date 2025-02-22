@@ -1,0 +1,26 @@
+[
+    {
+        "symptoms": [
+            "iştahsızlık",
+            "çarpıntı",
+            "baş dönmesi",
+            "öksürük",
+            "kızarıklık",
+            "ishal",
+            "mide bulantısı",
+            "bulantı",
+            "kusma",
+            "balgam",
+            "halsizlik",
+            "eklem ağrısı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 23.5,
+        "severity": "orta",
+        "severity_prob": 57.333333333333336,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-01-24T23:57:20.821024"
+    }
+]

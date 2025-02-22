@@ -1,0 +1,21 @@
+age,gender,diagnosis,severity,department,symptom_karın ağrısı,symptom_nefes darlığı,symptom_iştahsızlık,symptom_baş dönmesi,symptom_şişkinlik,symptom_çarpıntı,symptom_kusma,symptom_balgam,symptom_bulantı,symptom_halsizlik,symptom_eklem ağrısı,symptom_terleme,symptom_baş ağrısı,symptom_kas ağrısı,symptom_boğaz ağrısı,symptom_titreme,symptom_denge kaybı,symptom_şişlik,symptom_öksürük,symptom_göğüs ağrısı,symptom_mide bulantısı,symptom_ateş,symptom_kızarıklık,symptom_ishal,symptom_görme bozukluğu,gender_encoded,diagnosis_encoded,severity_encoded,department_encoded,chronic_astım,chronic_diyabet,chronic_gastrit,chronic_romatizma,chronic_migren,chronic_KOAH,chronic_hipertansiyon,chronic_kalp hastalığı,chronic_alerji
+45,E,Üst Solunum Yolu Enfeksiyonu,orta,Dahiliye,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,12,1,0,0,0,0,0,0,0,1,0,0
+28,K,Migren,düşük,Nöroloji,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,9,0,4,0,0,0,0,0,0,0,0,0
+62,E,Kalp Krizi,yüksek,Kardiyoloji,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,2,3,0,1,0,0,0,0,0,1,0
+35,K,Gastroenterit,orta,Gastroenteroloji,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,1,1,0,0,0,0,0,0,0,0,0
+51,E,Grip,düşük,Dahiliye,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0
+42,K,Vertigo,orta,Nöroloji,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,1,4,0,0,0,0,0,0,0,0,0
+55,E,Bronşit,orta,Göğüs Hastalıkları,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,1,0,0
+30,K,Bağırsak Enfeksiyonu,düşük,Gastroenteroloji,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+25,E,Grip,düşük,Dahiliye,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+68,K,Kalp Krizi,yüksek,Kardiyoloji,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,8,2,3,0,1,0,0,0,0,1,0,0
+33,E,Covid-19,orta,Göğüs Hastalıkları,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0
+47,K,Migren,düşük,Nöroloji,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0,4,0,0,0,0,1,0,0,0,0
+39,E,Gastrit,orta,Gastroenteroloji,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,1,0,0,0,0,0,0
+52,K,Romatizma,orta,Romatoloji,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,10,1,5,0,0,0,1,0,0,0,0,0
+61,E,KOAH,yüksek,Göğüs Hastalıkları,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,2,2,0,0,0,0,0,1,0,0,0
+29,K,Vertigo,düşük,Nöroloji,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,11,0,4,0,0,0,0,0,0,0,0,0
+44,E,Gastroenterit,orta,Gastroenteroloji,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,1,0,0,0,0,0,0,0,0,0
+37,K,Grip,düşük,Dahiliye,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,1
+58,E,Kalp Krizi,yüksek,Kardiyoloji,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,2,3,0,0,0,0,0,0,0,1,0
+31,K,Farenjit,düşük,Dahiliye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0

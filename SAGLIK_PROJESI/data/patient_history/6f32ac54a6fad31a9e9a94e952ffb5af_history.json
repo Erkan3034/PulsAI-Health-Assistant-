@@ -1,0 +1,391 @@
+[
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "çarpıntı",
+            "iştahsızlık",
+            "öksürük"
+        ],
+        "additional_symptoms": "Stres",
+        "diagnosis": "Farenjit",
+        "diagnosis_prob": 20.5,
+        "severity": "orta",
+        "severity_prob": 46.0,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-01-29T00:09:08.686968"
+    },
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "çarpıntı",
+            "iştahsızlık",
+            "öksürük"
+        ],
+        "additional_symptoms": "Stres",
+        "diagnosis": "Gastrit",
+        "diagnosis_prob": 19.5,
+        "severity": "orta",
+        "severity_prob": 47.333333333333336,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-01-29T00:20:11.441684"
+    },
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "şişkinlik",
+            "çarpıntı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 22.0,
+        "severity": "orta",
+        "severity_prob": 48.66666666666667,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T00:50:12.677749"
+    },
+    {
+        "symptoms": [
+            "şişkinlik",
+            "iştahsızlık",
+            "baş dönmesi",
+            "çarpıntı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Gastrit",
+        "diagnosis_prob": 22.0,
+        "severity": "orta",
+        "severity_prob": 50.66666666666667,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:05:03.731500"
+    },
+    {
+        "symptoms": [
+            "nefes darlığı",
+            "iştahsızlık",
+            "baş dönmesi"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 19.5,
+        "severity": "orta",
+        "severity_prob": 44.0,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:10:50.820265"
+    },
+    {
+        "symptoms": [
+            "karın ağrısı",
+            "baş dönmesi",
+            "şişkinlik",
+            "çarpıntı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Bağırsak Enfeksiyonu",
+        "diagnosis_prob": 17.5,
+        "severity": "orta",
+        "severity_prob": 52.0,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:14:43.050395"
+    },
+    {
+        "symptoms": [
+            "şişkinlik",
+            "baş dönmesi",
+            "çarpıntı",
+            "kusma"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 32.5,
+        "severity": "orta",
+        "severity_prob": 57.99999999999999,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:17:53.911542"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "nefes darlığı",
+            "baş dönmesi",
+            "çarpıntı",
+            "balgam"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 26.0,
+        "severity": "orta",
+        "severity_prob": 46.0,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:19:42.488924"
+    },
+    {
+        "symptoms": [
+            "balgam",
+            "ishal",
+            "görme bozukluğu"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Migren",
+        "diagnosis_prob": 22.5,
+        "severity": "düşük",
+        "severity_prob": 50.66666666666667,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:20:11.055769"
+    },
+    {
+        "symptoms": [
+            "şişkinlik",
+            "çarpıntı"
+        ],
+        "additional_symptoms": "kas ağrısı",
+        "diagnosis": "Romatizma",
+        "diagnosis_prob": 17.0,
+        "severity": "orta",
+        "severity_prob": 56.00000000000001,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-22T01:28:01.776264"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "balgam",
+            "bulantı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 32.0,
+        "severity": "orta",
+        "severity_prob": 78.66666666666666,
+        "department": "Nöroloji",
+        "recommendation": "⚠️ ACİL DURUM! En yakın acil servise başvurunuz!",
+        "timestamp": "2025-02-22T01:31:54.241922"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "balgam",
+            "bulantı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 32.0,
+        "severity": "orta",
+        "severity_prob": 78.66666666666666,
+        "department": "Nöroloji",
+        "recommendation": "⚠️ ACİL DURUM! En yakın acil servise başvurunuz!",
+        "timestamp": "2025-02-22T01:32:36.338539"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "balgam",
+            "bulantı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 32.0,
+        "severity": "orta",
+        "severity_prob": 78.66666666666666,
+        "department": "Nöroloji",
+        "recommendation": "⚠️ ACİL DURUM! En yakın acil servise başvurunuz!",
+        "timestamp": "2025-02-22T01:32:40.586245"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "bulantı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 35.0,
+        "severity": "orta",
+        "severity_prob": 82.0,
+        "department": "Nöroloji",
+        "recommendation": "⚠️ ACİL DURUM! En yakın acil servise başvurunuz!",
+        "timestamp": "2025-02-22T01:32:46.100383"
+    },
+    {
+        "symptoms": [
+            "bulantı"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 24.5,
+        "severity": "orta",
+        "severity_prob": 72.66666666666667,
+        "department": "Nöroloji",
+        "recommendation": "⚠️ ACİL DURUM! En yakın acil servise başvurunuz!",
+        "timestamp": "2025-02-22T01:32:52.288694"
+    },
+    {
+        "symptoms": [
+            "kusma",
+            "şişkinlik",
+            "terleme",
+            "mide bulantısı",
+            "ateş"
+        ],
+        "additional_symptoms": "Burun akıntısı",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 21.5,
+        "severity": "düşük",
+        "severity_prob": 53.333333333333336,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:15:25.806035"
+    },
+    {
+        "symptoms": [
+            "şişkinlik",
+            "çarpıntı",
+            "kusma",
+            "ateş"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 21.5,
+        "severity": "düşük",
+        "severity_prob": 52.666666666666664,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:20:14.461815"
+    },
+    {
+        "symptoms": [
+            "şişkinlik",
+            "çarpıntı",
+            "kusma",
+            "ateş"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 21.5,
+        "severity": "düşük",
+        "severity_prob": 52.666666666666664,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:21:26.615256"
+    },
+    {
+        "symptoms": [
+            "nefes darlığı",
+            "iştahsızlık",
+            "bulantı",
+            "kusma"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 28.999999999999996,
+        "severity": "orta",
+        "severity_prob": 52.0,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:23:43.366235"
+    },
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "balgam",
+            "çarpıntı",
+            "kusma",
+            "şişkinlik"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 29.5,
+        "severity": "orta",
+        "severity_prob": 57.333333333333336,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:25:34.625770"
+    },
+    {
+        "symptoms": [
+            "baş dönmesi",
+            "balgam",
+            "çarpıntı",
+            "kusma",
+            "şişkinlik"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Vertigo",
+        "diagnosis_prob": 29.5,
+        "severity": "orta",
+        "severity_prob": 57.333333333333336,
+        "department": "Nöroloji",
+        "recommendation": "En kısa sürede Nöroloji bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:26:57.601431"
+    },
+    {
+        "symptoms": [
+            "kızarıklık",
+            "ateş",
+            "mide bulantısı",
+            "göğüs ağrısı"
+        ],
+        "additional_symptoms": "Terleme",
+        "diagnosis": "Kalp Krizi",
+        "diagnosis_prob": 21.0,
+        "severity": "düşük",
+        "severity_prob": 50.66666666666667,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:51:47.714036"
+    },
+    {
+        "symptoms": [
+            "kızarıklık",
+            "ateş",
+            "mide bulantısı"
+        ],
+        "additional_symptoms": "Terleme",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 23.5,
+        "severity": "düşük",
+        "severity_prob": 66.0,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:52:00.458097"
+    },
+    {
+        "symptoms": [
+            "kızarıklık",
+            "ateş",
+            "mide bulantısı"
+        ],
+        "additional_symptoms": "Terleme",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 23.5,
+        "severity": "düşük",
+        "severity_prob": 66.0,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T00:52:17.553888"
+    },
+    {
+        "symptoms": [
+            "çarpıntı",
+            "halsizlik",
+            "eklem ağrısı",
+            "boğaz ağrısı"
+        ],
+        "additional_symptoms": "terleme",
+        "diagnosis": "Grip",
+        "diagnosis_prob": 19.0,
+        "severity": "düşük",
+        "severity_prob": 52.0,
+        "department": "Dahiliye",
+        "recommendation": "En kısa sürede Dahiliye bölümüne başvurunuz.",
+        "timestamp": "2025-02-23T01:01:14.515644"
+    }
+]

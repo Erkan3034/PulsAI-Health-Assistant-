@@ -1,0 +1,17 @@
+[
+    {
+        "symptoms": [
+            "nefes darlığı",
+            "çarpıntı",
+            "balgam"
+        ],
+        "additional_symptoms": "baş dönmesi",
+        "diagnosis": "Kalp Krizi",
+        "diagnosis_prob": 17.5,
+        "severity": "orta",
+        "severity_prob": 34.0,
+        "department": "Göğüs Hastalıkları",
+        "recommendation": "Durumunuz şu an için ciddi görünmüyor, ancak şikayetleriniz devam ederse Göğüs Hastalıkları bölümüne başvurun.",
+        "timestamp": "2025-01-08T02:57:38.486537"
+    }
+]

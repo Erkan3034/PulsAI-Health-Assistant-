@@ -1,0 +1,12 @@
+date,disease,severity,age,gender,feedback,accuracy
+2024-12-25 22:17:57,kas ağrısı,orta,21,Erkek,,0.21
+2024-12-25 22:19:23,vertigo,orta,21,Kadın,,0.42
+2024-12-25 22:24:34,vertigo,orta,21,Erkek,,0.42
+2024-12-25 22:55:43,vertigo,orta,21,Erkek,,0.42
+2024-12-25 22:57:21,vertigo,orta,21,Erkek,,0.42
+2024-12-25 23:06:31,vertigo,orta,25,Kadın,,0.22
+2024-12-25 23:20:44,mide virüsü,orta,21,Erkek,,0.29
+2024-12-25 23:24:13,mide virüsü,orta,21,Erkek,,0.29
+2024-12-26 12:49:14,vertigo,orta,21,Kadın,,0.42
+2024-12-26 12:55:11,vertigo,orta,21,Kadın,,0.42
+2025-01-08 01:46:46,kas ağrısı,orta,22,Erkek,,0.21

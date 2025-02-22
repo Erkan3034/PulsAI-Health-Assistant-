@@ -1,0 +1,24 @@
+[
+    {
+        "symptoms": [
+            "karın ağrısı",
+            "kusma",
+            "bulantı",
+            "eklem ağrısı",
+            "boğaz ağrısı",
+            "öksürük",
+            "mide bulantısı",
+            "ishal",
+            "görme bozukluğu",
+            "şişlik"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Gastroenterit",
+        "diagnosis_prob": 42.0,
+        "severity": "orta",
+        "severity_prob": 51.33333333333333,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-01-08T02:56:14.351885"
+    }
+]
