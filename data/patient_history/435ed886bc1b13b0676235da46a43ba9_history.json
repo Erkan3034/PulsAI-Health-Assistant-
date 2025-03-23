@@ -1,0 +1,17 @@
+[
+    {
+        "symptoms": [
+            "karın ağrısı",
+            "baş dönmesi",
+            "şişkinlik"
+        ],
+        "additional_symptoms": "",
+        "diagnosis": "Gastrit",
+        "diagnosis_prob": 19.5,
+        "severity": "orta",
+        "severity_prob": 59.333333333333336,
+        "department": "Gastroenteroloji",
+        "recommendation": "En kısa sürede Gastroenteroloji bölümüne başvurunuz.",
+        "timestamp": "2025-03-23T21:36:52.211851"
+    }
+]
